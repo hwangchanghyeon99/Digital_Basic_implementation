@@ -1,7 +1,7 @@
 # Digital_Basic_implementation
 synthesis, LEC, Contraints, APR, Pre/Post Simulation
 
-## 구성은 다음과 같아요
+## 🍕구성은 다음과 같아요
 1. RTL Design
 * VerilogHDL을 이용하여 Combinational/Sequantial Logic을 설계합니다
 
